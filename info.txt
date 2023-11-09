@@ -1,0 +1,13 @@
+api ninjas
+chrome://extensions/  -> cargar descomprimida.
+
+https://developer.chrome.com/docs/extensions/mv3/manifest/
+
+
+
+publish
+-zip file
+-go to https://chrome.google.com/webstore/devconsole
+
+-sigin
+-add new item
